@@ -1,4 +1,5 @@
 {
   "private": true,
-  "name": "vercel-require-non-failing-deployment-worktree"
+  "name": "vercel-require-non-failing-deployment-worktree",
+  "description": "A change not affecting the root dir for this Vercel project"
 }
